@@ -1,4 +1,4 @@
-# signal-backup
+# Signal Backup
 
 Backup and decrypt Signal Desktop message history
 
